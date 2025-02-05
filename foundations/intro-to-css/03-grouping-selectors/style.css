@@ -1,0 +1,11 @@
+.primer {
+  color: white;
+  background-color: black;
+}
+.segundo {
+  background-color: yellow;
+}
+.primer, .segundo {/*SELECTORES DE AGRUPAMIENTO*/
+  font-size: 24px;
+  font-family:Helvetica,'Times New Roman', Times, serif;
+}

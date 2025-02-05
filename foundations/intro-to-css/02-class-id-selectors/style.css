@@ -1,0 +1,16 @@
+.impar{
+  background-color: lightpink;
+  font-family: Verdana,DejaVu sans, sans-serif;
+}
+#big{
+  color: blue;
+  font-size:36px;
+}
+.impar.tamaño-grande{
+  font-size: 24px;
+}
+.nuevo {
+  background-color:lightgreen;
+  font-size: 24px;
+  font-weight: 700;
+}

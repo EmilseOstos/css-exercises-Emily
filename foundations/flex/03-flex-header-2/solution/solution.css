@@ -62,8 +62,9 @@ ul {
   gap: 16px;
 }
 
-.left, .right {
+ .left, .rigth{
   display: flex;
   align-items: center;
   gap: 16px;
 }
+
